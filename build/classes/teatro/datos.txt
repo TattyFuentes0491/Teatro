@@ -1,0 +1,3 @@
+Nombre Teatro      Dirección      Nombre Funcion      Precio      
+teatro norte 2         av 200         los enamorados         250000.0         
+teatro sur         calle 100         el destino         275000.0         
